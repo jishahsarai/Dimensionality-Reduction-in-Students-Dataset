@@ -1,1 +1,1 @@
-# Dimensionality-Reduction-in-Students-Dataset
+# Dimensionality Reduction in Students Dataset
