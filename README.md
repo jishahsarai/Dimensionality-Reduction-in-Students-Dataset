@@ -1,6 +1,6 @@
 # Dimensionality Reduction of the "Predict Student Dropout and Academic Success" Dataset
 
-This project explores various dimensionality reduction techniques on the "Predict Student Dropout and Academic Success" dataset from the UCI Machine Learning Repository. Techniques such as PCA (Principal Component Analysis), T-SNE (t-distributed Stochastic Neighbor Embedding), Isomap, and Factor Analysis are applied to uncover underlying patterns and insights within the data.
+This project explores various dimensionality reduction techniques on the "Predict Student Dropout and Academic Success" dataset from the UCI Machine Learning Repository. Techniques such as PCA (Principal Component Analysis), T-SNE (t-distributed Stochastic Neighbor Embedding), Isomap, and Factor Analysis are applied to uncover underlying patterns and insights within the data. In this repository, you'll find two files: a project report in PDF format and the accompanying code in the project.ipynb notebook.
 
 ## Tools and Libraries
 - Programming Language: Python
